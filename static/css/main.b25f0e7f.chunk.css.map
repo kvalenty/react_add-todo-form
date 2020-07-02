@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","Todo.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CCFA,gBACE,SACF","file":"main.b25f0e7f.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n",".Todo {\n  color: red;\n}\n"]}
